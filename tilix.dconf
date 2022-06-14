@@ -1,0 +1,96 @@
+[/]
+auto-hide-mouse=true
+prompt-on-close=true
+prompt-on-delete-profile=true
+recent-session-files=['/home/spawn/test']
+terminal-title-show-when-single=false
+terminal-title-style='none'
+warn-vte-config-issue=false
+window-style='borderless'
+
+[keybindings]
+app-shortcuts='<Alt>s'
+session-add-auto='<Alt>j'
+session-add-down='<Alt>h'
+session-add-right='<Alt>k'
+session-resize-terminal-down='<Shift><Alt>j'
+session-resize-terminal-left='<Shift><Alt>h'
+session-resize-terminal-right='<Shift><Alt>l'
+session-resize-terminal-up='<Shift><Alt>k'
+
+[profiles]
+default='2b7c4080-0ddd-46c5-8f23-563fd3ba789d'
+list=['2b7c4080-0ddd-46c5-8f23-563fd3ba789d', '66264601-9fd3-4d3c-9f31-d979c5a71a8d']
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-color='#0B0B29293131'
+background-transparency-percent=0
+badge-color-set=false
+bold-color-set=false
+cursor-colors-set=false
+font='Menlo for Powerline 9'
+foreground-color='#F0F0DEDEC0C0'
+highlight-colors-set=false
+login-shell=true
+palette=['#9C9C76764848', '#B4B488884D4D', '#B7B787874242', '#B4B488884D4D', '#ACAC8C8C6464', '#D1D19D9D6161', '#616182828A8A', '#F0F0DEDEC0C0', '#9C9C76764848', '#B4B488884D4D', '#B7B787874242', '#B4B488884D4D', '#ACAC8C8C6464', '#D1D19D9D6161', '#616182828A8A', '#F0F0DEDEC0C0']
+rewrap-on-resize=true
+scroll-on-keystroke=true
+scroll-on-output=false
+scrollback-unlimited=false
+show-scrollbar=false
+use-system-font=false
+use-theme-colors=false
+visible-name='Par défaut'
+
+[profiles/66264601-9fd3-4d3c-9f31-d979c5a71a8d]
+allow-bold=true
+automatic-switch=@as []
+background-color='#1e2127'
+background-transparency-percent=0
+backspace-binding='ascii-delete'
+badge-color='#ffffff'
+badge-color-set=false
+badge-position='northeast'
+badge-text=''
+bold-color='#ffffff'
+bold-color-set=true
+bold-is-bright=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+cjk-utf8-ambiguous-width='narrow'
+cursor-background-color='#000000'
+cursor-blink-mode='system'
+cursor-colors-set=false
+cursor-foreground-color='#282c34'
+cursor-shape='ibeam'
+custom-command=''
+custom-hyperlinks=@as []
+default-size-columns=57
+default-size-rows=21
+delete-binding='delete-sequence'
+dim-transparency-percent=0
+encoding='UTF-8'
+exit-action='close'
+font='Menlo 9'
+foreground-color='#abb2bf'
+highlight-background-color='#000000'
+highlight-colors-set=false
+highlight-foreground-color='#ffffff'
+login-shell=true
+notify-silence-threshold=0
+palette=['#000000', '#E06C75', '#98c379', '#d19a66', '#61aeee', '#c678dd', '#56b6c2', '#abb2bf', '#5c6370', '#e06c75', '#98c379', '#d19a66', '#62afee', '#c678dd', '#56b6c2', '#ffffff']
+rewrap-on-resize=true
+scroll-on-keystroke=true
+scroll-on-output=false
+scrollback-lines=8192
+scrollback-unlimited=false
+select-by-word-chars='-,./?%&#:_'
+show-scrollbar=true
+terminal-bell='sound'
+terminal-title='${id}: ${title}'
+text-blink-mode='always'
+triggers=@as []
+use-custom-command=false
+use-system-font=false
+use-theme-colors=false
+visible-name='Mon mien'
